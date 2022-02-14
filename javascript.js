@@ -287,5 +287,4 @@ function keepCpuScore() {
   });
 
   computerScoreBox.textContent = computerScore;
-}   
- 
+} 
