@@ -1,4 +1,4 @@
-window.onload=beginningAnimations();
+window.onload= beginningAnimation();
 let computerSelection;
 let playerSelection;
 let computerscore= 0;
