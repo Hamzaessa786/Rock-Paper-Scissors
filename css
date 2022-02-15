@@ -103,6 +103,7 @@ body {
   display: none;
 }
 #game-container {
+  opacity: 0;
   pointer-events: none;
 }
 span {
